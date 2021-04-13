@@ -1,7 +1,10 @@
 ## Hello viewer~ 👋
-![alt text][logo]
 
-:mortar_board: I'm Rawi, student at [KMUTT](https://global.kmutt.ac.th/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l2D&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2D&layout=compact&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+:mortar_board: I'm Rawi
 
 🔭  I’m currently working on Flutter, Laravel, NuxtJS, IoT and a little bit more~ :blush:
 
