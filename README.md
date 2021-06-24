@@ -6,9 +6,9 @@
 
 :mortar_board: I'm Rawi
 
-🔭  I’m currently working on Flutter, Laravel, NuxtJS, IoT and a little bit more~ :blush:
+🔭  I’m currently working on NodeJS, Docker, NuxtJS, NextJS, Flutter, Laravel, IoT and a little bit more~ :blush:
 
-🌱  I’m currently learning :soon: DevOps :sweat:
+🌱  I’m learning on DevSecOps, QA and some new tools :sweat:
 
 ## :heartpulse: My Fav :satisfied:
 
