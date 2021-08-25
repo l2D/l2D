@@ -21,6 +21,8 @@
 
 > If debugging is the process of removing software bugs, then programming must be the process of putting them in – Edsger Dijkstra
 
+> Failure is success if we learn from it. – Malcolm Forbes
+
 [logo]: https://scontent.fbkk2-7.fna.fbcdn.net/v/t1.0-9/79880635_2175576655877440_1709939854789312512_o.jpg?_nc_cat=106&_nc_sid=dd9801&_nc_eui2=AeEbqX87Zpm0b4bE7ts-cTrVflvhELMrV81-W-EQsytXzextqpqoygZNuW_yBB5A0Q1AjkLY9fJbfLZZgfUXLC7N&_nc_ohc=qGKzY9orrOgAX_CkSpI&_nc_ht=scontent.fbkk2-7.fna&oh=018642d56f79badefe29f8a339b7b8f6&oe=5F2D8541 "Text"
 
 <!--
