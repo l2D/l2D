@@ -6,6 +6,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=l2D&layout=compact&theme=vue-dark&custom_title=Last&nbsp;7&nbsp;Days&nbsp;Work&nbsp;time)](https://github.com/anuraghazra/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=l2D.visitor-badge&left_color=#23272e&right_color=#23272e)
 ![](https://hit.yhype.me/github/profile?user_id=20911264)
 
 
@@ -13,7 +14,7 @@
 
 🔭  I’m currently working on NodeJS, Docker, NuxtJS, NextJS, Flutter, Laravel, IoT and a little bit more~ :blush:
 
-🌱  I’m learning on DevSecOps, QA and some new tools :sweat:
+🌱  I’m learning on DDD, Microservices, k8s, GraphQL, Mesh :yum:
 
 ## :heartpulse: My Fav :satisfied:
 
