@@ -6,6 +6,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=l2D&layout=compact&theme=vue-dark&custom_title=Last&nbsp;7&nbsp;Days&nbsp;Work&nbsp;time)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://hit.yhype.me/github/profile?user_id=20911264)
+
 
 :mortar_board: I'm Rawi
 
