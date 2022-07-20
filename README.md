@@ -1,11 +1,18 @@
 ## Hello viewer~ 👋
 
-📛  (He/Him) I'm Rawi
+<div align="left">
+  <a href="https://api.daily.dev/get?r=l2D" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/l2D/l2D/devcard/devcard.svg"
+    />
+  </a>
+</div>
 
-🔭  I’m currently working on NodeJS (Express), Docker
+![Stat](https://raw.githubusercontent.com/l2D/l2D/github-metrics/github-metrics.svg)
 
-🌱  I’m learning on DDD, Go, Microservices, CI/CD, k8s, Mesh, NestJS, GraphQL :yum:
-
+![Languages](https://raw.githubusercontent.com/l2D/l2D/github-metrics/language.svg)
 ## :heartpulse: My Fav :satisfied:
 
 > Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates
@@ -23,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Learning: 
+## Keep Learning: 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
