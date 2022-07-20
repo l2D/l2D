@@ -49,5 +49,7 @@ jobs:
           # Language plugin
           plugin_languages: true
           plugin_languages_indepth: true
+          plugin_languages_limit: 16
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_aliases: javascript:JS typescript:TS
