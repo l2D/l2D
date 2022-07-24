@@ -12,7 +12,7 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.24
+      - uses: lowlighter/metrics@v3.26
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -29,7 +29,7 @@ jobs:
   language:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.24
+      - uses: lowlighter/metrics@v3.26
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
