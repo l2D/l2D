@@ -148,32 +148,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 16.9kb of code in 27 edited files across 28 commits over last 13 days</small>
+                <small>estimation from 6.25kb of code in 17 edited files across 24 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="846.1467889908257" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="846.1467889908257" y="0" width="66.85659101883148" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="913.0033800096571" y="0" width="3.998068565910188" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="917.0014485755673" y="0" width="2.9985514244326414" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="868.0877742946709" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="868.0877742946709" y="0" width="51.912225705329156" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>7.62 kB</div>
-                                <div>91.97%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -184,7 +168,7 @@
                             </div>
                             <small>
                                 <div>602 bytes</div>
-                                <div>7.27%</div>
+                                <div>94.36%</div>
                             </small>
                         </div>
                     </section>
@@ -198,23 +182,13 @@
                             </div>
                             <small>
                                 <div>36 bytes</div>
-                                <div>0.43%</div>
+                                <div>5.64%</div>
                             </small>
                         </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Makefile
-                            </div>
-                            <small>
-                                <div>27 bytes</div>
-                                <div>0.33%</div>
-                            </small>
-                        </div>
+                    </section>
+                    <section>
                     </section>
                 </div>
             </section>
