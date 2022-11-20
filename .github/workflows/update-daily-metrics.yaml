@@ -62,9 +62,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+          filename: wakatime.svg
+          
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graphs, os, os-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
