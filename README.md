@@ -13,6 +13,8 @@
 ![Stat](https://raw.githubusercontent.com/l2D/l2D/github-metrics/github-metrics.svg)
 
 ![Languages](https://raw.githubusercontent.com/l2D/l2D/github-metrics/language.svg)
+
+![Wakatime](https://raw.githubusercontent.com/l2D/l2D/github-metrics/wakatime.svg)
 ## :heartpulse: My Fav :satisfied:
 
 > Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates
