@@ -56,3 +56,17 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_recent_load: 1000
           plugin_languages_recent_days: 365
+
+  wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+#           token: NOT_NEEDED
+#           base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graphs, os, os-graphs
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 365
+
