@@ -1,20 +1,19 @@
 ## Hello viewer~ 👋
 
-<div align="left">
+<div align="center">
   <a href="https://api.daily.dev/get?r=l2D" target="_blank">
     <img
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/l2D/l2D/devcard/devcard.svg"
+      style=""
     />
   </a>
 </div>
 
-![Stat](https://raw.githubusercontent.com/l2D/l2D/github-metrics/github-metrics.svg)
+![Wakatime](https://raw.githubusercontent.com/l2D/l2D/github-metrics/wakatime.svg)
 
 ![Languages](https://raw.githubusercontent.com/l2D/l2D/github-metrics/language.svg)
-
-![Wakatime](https://raw.githubusercontent.com/l2D/l2D/github-metrics/wakatime.svg)
 ## :heartpulse: My Fav :satisfied:
 
 > Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates
@@ -124,7 +123,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2D&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=l2D&layout=compact&theme=vue-dark&custom_title=Languages%20spend%20time%20from%20April%2013%2C%202021&hide_border=true&hide=other)](https://github.com/l2D)
+[![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=l2D&layout=compact&theme=vue-dark&hide_border=true&hide=other)](https://github.com/l2D)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=l2D.visitor-badge&left_color=#23272e&right_color=#23272e)
 ![](https://hit.yhype.me/github/profile?user_id=20911264)
