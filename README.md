@@ -1,4 +1,4 @@
-## Hello viewer~ 👋
+## Let know my journey~ 👋
 
 <div align="center">
   <a href="https://api.daily.dev/get?r=l2D" target="_blank">
@@ -22,8 +22,90 @@
 
 > Failure is success if we learn from it. – Malcolm Forbes
 
+> Knowledge itself is power. – Sir Francis Bacon
 
-## I speak Languages
+> Great things happen to those who don't stop believing, trying, learning, and being grateful. – Roy T. Bennett, The Light in the Heart
+
+## Currently, I use these following tools:
+
+### 🌐 Programming, Command, Data-serialization Languages
+
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%2302569B.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+### 🔁 CI/CD
+
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Argo](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 🐳 Container & Orchestration
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kustomize](https://img.shields.io/badge/kustomize-%23039BE5.svg?style=for-the-badge&logo=kustomize&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%23111D87.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📊 Monitoring & Logging
+
+![Prometheus](https://img.shields.io/badge/prometheus-%23df4f2c.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23ef7300.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/kibana-%23323330.svg?style=for-the-badge&logo=kibana&logoColor=white)
+
+### ❤️ HashiCorp Products
+
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Vault](https://img.shields.io/badge/vault-%2302569B.svg?style=for-the-badge&logo=vault&logoColor=white)
+![Consul](https://img.shields.io/badge/consul-%231A5A99.svg?style=for-the-badge&logo=consul&logoColor=white&color=F24C53)
+
+### ☁️ Cloud Providers
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🔐 Security
+
+<details>
+  <summary>Reveal</summary>
+
+  > VTJob2FHaG9MQ0JKZENkeklHRWdjMlZqY21WMExnb0tWR2hsSUc5dWJIa2dZMmh2YzJWdUlHaDFiV0Z1SUdOdmRXeGtJR3R1YjNjZ2RHaGxJSE52ZFhKalpTQnZaaUIwY25WMGFDRWg= 😉
+
+  <!-- <details>
+  <summary>## You're worthy!! ##</summary>
+  
+  ![OpenSSL](https://img.shields.io/badge/openssl-%721412.svg?style=for-the-badge&logo=openssl&logoColor=white&color=721412)
+  ![JSON Web Tokens](https://img.shields.io/badge/jsonwebtokens-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+  ![OpenID](https://img.shields.io/badge/openid-%2302569B.svg?style=for-the-badge&logo=openid&logoColor=white)
+  ![Snyk](https://img.shields.io/badge/snyk-%4C4A73.svg?style=for-the-badge&logo=snyk&logoColor=white&color=4C4A73)
+  </details> -->
+
+</details>
+
+
+### SCM & Providers
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 📝 IDEs & Editors
+
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![NeoVim](https://img.shields.io/badge/neovim-%2311AB00.svg?style=for-the-badge&logo=neovim&logoColor=white)
+
+### ✍🏼 Methodologies
+
+![Agile](https://img.shields.io/badge/agile-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![*](https://img.shields.io/badge/*Ops-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 OS
+
+![MacOS](https://img.shields.io/badge/macOS-%23121011.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+<!-- ## I speak Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -113,7 +195,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-
+-->
 
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/40220765-21c2-45dd-9b0a-d3bf9e27e616.svg)](https://wakatime.com/@40220765-21c2-45dd-9b0a-d3bf9e27e616)
@@ -130,7 +212,7 @@
 
 
 
-## Projects (2022)
+<!-- ## Projects (2022)
 
 - New personal website (Designing)
   - CV page
@@ -143,4 +225,4 @@
   - Policy
 - Utility tools (Plan)
   - Daily life tools
-  - Developer tools
+  - Developer tools -->
