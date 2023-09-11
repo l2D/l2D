@@ -201,11 +201,11 @@
 [![wakatime](https://wakatime.com/badge/user/40220765-21c2-45dd-9b0a-d3bf9e27e616.svg)](https://wakatime.com/@40220765-21c2-45dd-9b0a-d3bf9e27e616)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=l2D&show_icons=true&theme=vue-dark&count_private=true&custom_title=GitHub%20stats&hide_border=true)](https://github.com/l2D)
+[![GitHub stats](https://github-readme-stats-orcin-mu-98.vercel.app/api?username=l2D&show_icons=true&theme=vue-dark&count_private=true&custom_title=GitHub%20stats&hide_border=true)](https://github.com/l2D)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l2D&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-orcin-mu-98.vercel.app/api/top-langs/?username=l2D&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=l2D&layout=compact&theme=vue-dark&hide_border=true&hide=other)](https://github.com/l2D)
+[![Languages](https://github-readme-stats-orcin-mu-98.vercel.app/api/wakatime?username=l2D&layout=compact&theme=vue-dark&hide_border=true&hide=other)](https://github.com/l2D)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=l2D.visitor-badge&left_color=#23272e&right_color=#23272e)
 ![](https://hit.yhype.me/github/profile?user_id=20911264)
