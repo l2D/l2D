@@ -200,10 +200,9 @@
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/40220765-21c2-45dd-9b0a-d3bf9e27e616.svg)](https://wakatime.com/@40220765-21c2-45dd-9b0a-d3bf9e27e616)
 
-
 [![GitHub stats](https://github-readme-stats-orcin-mu-98.vercel.app/api?username=l2D&show_icons=true&theme=vue-dark&count_private=true&custom_title=GitHub%20stats&hide_border=true)](https://github.com/l2D)
 
-[![Top Langs](https://github-readme-stats-orcin-mu-98.vercel.app/api/top-langs/?username=l2D&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-orcin-mu-98.vercel.app/api/top-langs/?username=l2D&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/l2D)
 
 [![Languages](https://github-readme-stats-orcin-mu-98.vercel.app/api/wakatime?username=l2D&layout=compact&theme=vue-dark&hide_border=true&hide=other)](https://github.com/l2D)
 
