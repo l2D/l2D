@@ -204,7 +204,7 @@
 
 [![Top Langs](https://github-readme-stats-fork-murex.vercel.app/api/top-langs/?username=l2D&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/l2D)
 
-[![Languages](https://github-readme-stats-fork-murex.vercel.app/api/wakatime?username=l2D&layout=compact&theme=vue-dark&hide_border=true&hide=other)](https://github.com/l2D)
+[![Languages](https://github-readme-stats-fork-murex.vercel.app/api/wakatime?username=l2D&layout=compact&theme=vue-dark&hide_border=true&hide=other&custom_title=WakaTime%20Stats%20%28Last%201%20year%29)](https://github.com/l2D)
 
 
 <!-- ## Projects (2022)
