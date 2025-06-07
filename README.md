@@ -11,7 +11,7 @@
   </a> -->
   <a href="https://app.daily.dev/l2d" target="_blank">
     <img 
-      width="356"
+      width="300"
       align="right"
       src="https://api.daily.dev/devcards/v2/cYwWDTFauFDNJkoQrzXwH.png?type=default&r=lsn"
       alt="l2D's Dev Card"/>
