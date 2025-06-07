@@ -1,13 +1,20 @@
 ## Let know my journey~ 👋
 
 <div align="center">
-  <a href="https://api.daily.dev/get?r=l2D" target="_blank">
+<!--   <a href="https://api.daily.dev/get?r=l2D" target="_blank">
     <img
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/l2D/l2D/devcard/devcard.svg"
       style=""
     />
+  </a> -->
+  <a href="https://app.daily.dev/l2d" target="_blank">
+    <img 
+      width="356"
+      align="right"
+      src="https://api.daily.dev/devcards/v2/cYwWDTFauFDNJkoQrzXwH.png?type=default&r=lsn"
+      alt="l2D's Dev Card"/>
   </a>
 </div>
 
